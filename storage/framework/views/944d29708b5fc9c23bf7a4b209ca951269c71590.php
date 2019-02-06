@@ -1,0 +1,1 @@
+<h1 style="color: red;">Hello <?php echo e($institutionName); ?> You are added to Edugie</h1>
